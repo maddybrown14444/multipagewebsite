@@ -1,0 +1,71 @@
+/* all */
+
+html {
+  background-image: url(Myimg/BackgroundPic.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+body {
+  width: 600px;
+  margin: 25px auto;
+  text-align: center;
+}
+
+/* home */
+
+#GretzkyQuote {
+  color: white;
+  font-size: xx-large;
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* about */
+#hockeyPostions {
+  color: azure;
+}
+#PlayerPic {
+  width: 600px;
+}
+#LearnMore {
+  color: brown;
+  text-decoration: none;
+}
+#LearnMore:hover {
+  font-size: large;
+  color: rgb(93, 6, 6);
+  text-decoration: underline;
+}
+
+#aboutPageInfo {
+  border: solid;
+  opacity: 6;
+  padding: 2px 100px 50px;
+  background-color: rgba(3, 3, 5, 0.3);
+  color: rgb(251, 254, 251);
+  font-weight: 650;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: larger;
+  margin-top: 25px;
+}
+
+#QuizPageInfo {
+  border: solid;
+  opacity: 6;
+  padding: 2px 100px 50px;
+  background-color: rgba(3, 3, 5, 0.3);
+  color: rgb(251, 254, 251);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: larger;
+  font-weight: 650;
+}
+#hopePageInfo {
+  border: clear;
+  opacity: 6;
+  padding: 2px 100px 50px;
+  font-size: larger;
+  color: rgb(251, 254, 251);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 650;
+}
